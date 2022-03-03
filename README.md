@@ -1,4 +1,4 @@
-# Hi there, I'm Ryan 👨‍💻
+# Hi there, I'm Ryan
 
 A software developer from Toronto, Canada.
 
