@@ -2,7 +2,6 @@
 
 A software developer from Toronto, Canada.
 
-[![Visits Badge](https://badges.pufler.dev/visits/4kelly/4kelly)](https:4kelly.com)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/4kelly_)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/ryanmdk/)
 
