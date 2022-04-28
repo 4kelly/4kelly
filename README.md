@@ -7,7 +7,7 @@ A software developer from Toronto, Canada.
 
 
 <details>
-  <summary>Employment / Education</summary>
+    <summary> 🔻 Employment / Education</summary>
 
 ### Experience
 
