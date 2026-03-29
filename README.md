@@ -19,17 +19,13 @@ A software developer from Toronto, Canada.
 📆 2017 - 2019\
 📍 **Kik**
   
-- 👨‍💻 **Data Engineer**\
+- 👨‍💻 **Data Scientist**\
 📆 2015 - 2017\
-📍 **Data Scientist**
+📍 **Kik**
 
 - 👨‍💻 **Analyst**\
 📆 2014 - 2015\
 📍 **Ontario Lottery And Gaming**
-
-- 👨‍💻 **Teaching Assistant**\
-📆 2010 - 2012\
-📍 **McMaster University**
 
 - 👨‍💻 **Biology Technician**\
 📆 2010 - 2012\
